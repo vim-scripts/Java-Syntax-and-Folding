@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1205
+
+Modified from the original syntax/java.vim to support syntax folding. I also removed a lot of unncessary syntax defs including error detection, standard classes, etc.
+
+
+Known issues:
+
+- Method declaration is also folded currently, this is very ugly...
